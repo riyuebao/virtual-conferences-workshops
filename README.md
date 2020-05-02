@@ -5,6 +5,8 @@ Kudos to meeting organizers and many others who invested enomerous efforts in mo
 
 Entries are sorted by most recent. Many are still (or will) open for **registration** and are calling for **abstracts**!
 
+Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathmatical #statistical #MachineLearning #DeepLearning #AI #imaging 
+
 ## Mathematical and Computational Methods in Biology Workshop
 * May 5 - May 8, 2020
 * 9:00AM - 5:00PM
