@@ -30,6 +30,12 @@ Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathma
 * https://www.iscb.org/ismb2020
 * twitter: @iscb
 
+## Bioinformatics Community Conference 2020 (BCC2020)
+* July 19-21, 2020 (West) / July 20-22 (East)
+* Jointly by Galaxy Community Conference (GCC) and Bioinformatics Open Source Conference (BOSC)
+* Conference Homepage URL: https://bcc2020.github.io/
+* twitter: [#BCC2020](https://twitter.com/search?q=BCC2020&src=typed_query) or [OBF_BOSC](https://twitter.com/OBF_BOSC)
+
 ## International Conference on Machine Learning (ICML) 37th annual conference
 * July 12 - 18th, 2020
 * https://icml.cc/Conferences/2020/Dates
