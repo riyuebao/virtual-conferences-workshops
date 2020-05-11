@@ -31,12 +31,18 @@ Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathma
 * https://ww2.amstat.org/meetings/sdss/2020/
 * twitter: @AmstatNews
 
+## Reseach in Computational Molecular Biology (RECOMB) 24th International Conference
+* June 22 - June 25, 2020
+* University of Padova, Carnegie Mellon University, and many others
+* https://www.recomb2020.org/
+* twitter: @recomb2020
+
 ## Medical Imaging with Deep Learning (MIDL)
 * July 6 - July 8, 2020
 * https://2020.midl.io/
 * twitter: @midl_conference
 
-## Intelligent Systems for Molecular Biology (ISMB) 28th annual international conference
+## Intelligent Systems for Molecular Biology (ISMB) 28th Annual International Conference
 * July 13 - July 16, 2020
 * International Society for Computational Biology (ISCB) 
 * https://www.iscb.org/ismb2020
@@ -48,7 +54,7 @@ Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathma
 * Conference Homepage URL: https://bcc2020.github.io/
 * twitter: [#BCC2020](https://twitter.com/search?q=BCC2020&src=typed_query) or [OBF_BOSC](https://twitter.com/OBF_BOSC)
 
-## International Conference on Machine Learning (ICML) 37th annual conference
+## International Conference on Machine Learning (ICML) 37th Annual Conference
 * July 12 - 18th, 2020
 * https://icml.cc/Conferences/2020/Dates
 * twitter: @icmlconf
