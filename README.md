@@ -60,15 +60,21 @@ Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathma
 * twitter: [#BCC2020](https://twitter.com/search?q=BCC2020&src=typed_query) or [OBF_BOSC](https://twitter.com/OBF_BOSC)
 
 ## International Conference on Machine Learning (ICML) 37th Annual Conference
-* July 12 - 18th, 2020
+* July 12 - July 18th, 2020
 * https://icml.cc/Conferences/2020/Dates
 * twitter: @icmlconf
 
 ## R/Medicine
-* August 27 – 29, 2020
+* August 27 – August 29, 2020
 * Children’s Hospital of Philadelphia, Yale School of Public Health, and the R Consortium
 * https://events.linuxfoundation.org/r-medicine/
 * twitter: @r_medicine
+
+## Genome Informatics
+* Sept 14 - Sept 16, 2020
+* Wellcome Genome Campus, UK
+* https://coursesandconferences.wellcomegenomecampus.org/our-events/genome-informatics-2020/
+* twitter: @ACSCevents
 
 ## Medical Image Computing & Computer Assisted Intervention (MICCAI) 23rd International Conference 
 * Oct 4 - Oct 8, 2020
