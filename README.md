@@ -80,3 +80,12 @@ Fields: #bioinformatics #biostatistics #computational #biology #medicine #mathma
 * Oct 4 - Oct 8, 2020
 * https://miccai2020.org/en/NEWS.html
 * twitter: @MICCAI2020
+
+
+## East Africa Network for Bioinformatics Residential Training (3rd)
+* Jun 6- Aug 28, 2020
+* twitter @EANBiT_Project
+
+## hackBio, The Bioinormatics Internship 2020
+* Aug 1 - Sept 5, 2020
+* twitter @tbi_internship
