@@ -22,10 +22,17 @@ Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conf
 * Aug 1 - 4
 * https://acm-bcb.org/
 
+## R/Medicine 
+* Aug 24 - 27
+* https://r-medicine.org/
+
 ## RECOMB 2021 (Research In Computational Molecular Biology)
-* Aug 29  - Sep 1
+* Aug 29  - Sept 1
 * https://www.recomb2021.org/
 
+## MICCAI 2021 (Medical Image Computing & Computer Assisted Intervention)
+* Sept 27 - Oct 1
+* http://www.miccai.org/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ## 2020 
