@@ -1,5 +1,30 @@
 # virtual-conferences-workshops
-This repo collects the list of conferences/meetings/workshops that have gone virtual in 2020 in the era of pandemic COVID19. 
+
+## 2021
+This repo collects the list of conferences/meetings/workshops that have continued virtual in 2021. 
+
+Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conferences from other #computational #fields are welcome!!
+
+PSB 2021 (Pacific Symposium in Biocomputing)
+Jan 3 - 7
+http://psb.stanford.edu/
+
+ISMB/ECCB 2021 (Intelligent Systems for Molecular Biology/European Conference on Computational Biology)
+July 25 - 30
+https://www.iscb.org/ismbeccb2021
+
+ACM-BCB 2021 (ACM Conference on Bioinformatics, Computational Biology, and Health Informatics )
+Aug 1 - 4
+https://acm-bcb.org/
+
+RECOMB 2021 (Research In Computational Molecular Biology)
+Aug 29  - Sep 1
+https://www.recomb2021.org/
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## 2020 
+This repo collects the list of conferences/meetings/workshops that have gone virtual in 2021 in the era of pandemic COVID19. 
 
 Kudos to meeting organizers and many others who invested enomerous efforts in moving those important conferences and workshops online!
 
