@@ -13,6 +13,11 @@ Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conf
 * July 25 - 30
 * https://www.iscb.org/ismbeccb2021
 
+## BOSC 2021 (Bioinformatics Open Source Conference)
+* July 29-30
+* https://www.open-bio.org/events/bosc-2021/
+* BOSC 2021 will be part of ISMB/ECCB 2021 online!
+
 ## ACM-BCB 2021 (ACM Conference on Bioinformatics, Computational Biology, and Health Informatics )
 * Aug 1 - 4
 * https://acm-bcb.org/
