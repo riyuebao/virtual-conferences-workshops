@@ -1,7 +1,7 @@
 # virtual-conferences-workshops
 
 ## 2021
-This repo collects the list of conferences/meetings/workshops that have continued virtual in 2021 (or resumed in-person, as denoted).
+This repo collects the list of conferences/meetings/workshops that have continued virtual in 2021 (or resumed on site/in-person, as denoted).
 
 Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conferences from other #computational #fields are welcome!!
 
@@ -34,7 +34,7 @@ Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conf
 * Aug 29  - Sept 1
 * https://www.recomb2021.org/
 
-## BC2 2021 (Basel Computational Biology Conference) - This meeting will be IN PERSON at Basel!
+## BC2 2021 (Basel Computational Biology Conference) - This meeting will be ON SITE at Basel (in-person)!
 * Sept 13 – 15
 * https://www.bc2.ch/
 
