@@ -22,7 +22,11 @@ Most collections are #Compbio #Bioinfo #Sysbio #Conferences. Suggestions on conf
 * Aug 1 - 4
 * https://acm-bcb.org/
 
-## R/Medicine 
+## BioC 2021 (Bioconductor Annual Conference)
+* Aug 4 - 6
+* https://bioc2021.bioconductor.org/
+
+## R/Medicine 2021
 * Aug 24 - 27
 * https://r-medicine.org/
 
